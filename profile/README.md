@@ -1,6 +1,13 @@
 # SK텔레콤 FLY AI Challenger 2기 팀 프로젝트 경진대회
 
-"매번 새로운 동화를 만들 수 있는 CYFTLE로 창의력을 발휘하고 마법 같은 모험을 시작하세요!"
+<br>
+
+### "매번 새로운 동화를 만들 수 있는 CYFTLE로 창의력을 발휘하고 마법 같은 모험을 시작하세요!"
+<br>
+
+![최종발표자료_패기2조_수정](https://user-images.githubusercontent.com/107748183/222945412-da377cfc-1e9b-49cf-bdac-270de325e68c.png)
+
+![최종발표자료_패기2조_수정1](https://user-images.githubusercontent.com/107748183/222945900-43d00b20-9620-41e0-9348-e48cb00c604f.png)
 
 
 ## 주제
@@ -20,3 +27,6 @@
 ## 팀
 * **C**reate **Y**outh/**Y**our **F**airy **T**a**LE**, **CYFTLE** (김태형, 송승우, 이예진, 장준영, 정훈서, 한원배)
 * 최종순위: 1위(대상)
+
+## Application
+https://user-images.githubusercontent.com/107748183/222945924-e34a711c-3c11-4b70-85c7-50e2beca142b.mp4
