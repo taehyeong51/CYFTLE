@@ -18,6 +18,9 @@
 * Off-the-Record 기능으로 동화가 생성된 이후, 추가 질문을 제시하고 그에 대한 답변을 출력하도록 해 상상력·사고력 증진을 도와줌
 * Face Age Estimation Model로 사용자의 연령을 인식하여 맞춤형 서비스 제공함
 
+## Application
+https://user-images.githubusercontent.com/107748183/222945924-e34a711c-3c11-4b70-85c7-50e2beca142b.mp4
+
 ## 기간
 * 2022년 12월 27일 ~ 2023년 2월 28일
 
@@ -27,6 +30,3 @@
 ## 팀
 * **C**reate **Y**outh/**Y**our **F**airy **T**a**LE**, **CYFTLE** (김태형, 송승우, 이예진, 장준영, 정훈서, 한원배)
 * 최종순위: 1위(대상)
-
-## Application
-https://user-images.githubusercontent.com/107748183/222945924-e34a711c-3c11-4b70-85c7-50e2beca142b.mp4
